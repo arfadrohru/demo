@@ -1,5 +1,4 @@
-{
-  "g22":[
+[
         { id: 1, nama: 'arif' },
         { id: 2, nama: 'iyan' },
         { id: 3, nama: 'ipeh' },
@@ -7,6 +6,6 @@
         { id: 5, nama: 'coolbe' },
         { id: 6, nama: 'pine' },
         { id: 7, nama: 'c++' },
-        { id: 8, nama: 'radit' },
-        ]
-}
+        { id: 8, nama: 'radit' }
+]
+
